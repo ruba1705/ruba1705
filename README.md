@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
-<!--
-**ruba1705/ruba1705** is a ✨ This is Ruba Priyadharshini K ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ This is Ruba Priyadharshini K ✨ 
 
 Here are some ideas to get you started:
 
@@ -11,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/ruba-priyadharshini-7785a1203/)
 - ⚡ Happy Learning :)
--->
+
