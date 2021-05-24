@@ -2,8 +2,6 @@
 
  ✨ This is Ruba Priyadharshini K ✨ 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently Pursuing MCA at PSGTECH
 - 🌱 I’m currently learning Python - Django,Js
 - 🤔 I’m looking for help with Django framework 
